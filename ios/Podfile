@@ -23,11 +23,11 @@ prepare_react_native_project!
 
 setup_permissions([
   # 'AppTrackingTransparency',
-  # 'Bluetooth',
+  'Bluetooth',
   # 'Calendars',
   # 'CalendarsWriteOnly',
   'Camera',
-  # 'Contacts',
+'Contacts',
   # 'FaceID',
   'LocationAccuracy',
   'LocationAlways',

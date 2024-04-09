@@ -50,6 +50,16 @@
 	<!-- # Microphone -->
 	<key>NSMicrophoneUsageDescription</key>
   	<string>App wants to use microphone service of your device</string>
+	<!-- # Bluetooth -->
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>App want's to access bluetooth service of your device</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>App want's to access bluetooth service of your device</string>
+	<!-- # Contacts -->
+	<key>NSContactsUsageDescription</key>
+    <string>App want's to access contact service of your device</string>
+
+
 
 
 	<key>NSLocationWhenInUseUsageDescription</key>
